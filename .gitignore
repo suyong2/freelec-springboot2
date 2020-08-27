@@ -2,3 +2,8 @@
 .gradle
 .idea
 build
+application-oauth.properties
+bin
+.settings
+.classpath
+.project
